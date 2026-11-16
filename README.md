@@ -24,6 +24,14 @@ Plano de testes completo de um app de aluguel de scooters, dos casos de teste ao
 - **Mobile:** casos de teste de layout, notificação e falha de conexão (Android Studio).
 - **API:** casos de teste de adicionar e excluir entregador (POST/DELETE) com Postman.
 
+- ### Outros trabalhos de QA
+
+- [Classes de equivalência e valores limite](https://docs.google.com/spreadsheets/d/1sv9iqQQeFpZnod9BH9Qm2SqQLfTyUxoi/edit?usp=sharing): técnica aplicada a um formulário de cadastro
+- [Checklist de layout](https://docs.google.com/spreadsheets/d/17n00mCiMmoSxzPXD-8ti8h4W6SfRjnpl/edit?usp=sharing): interface testada em navegadores e resoluções diferentes
+- [Testes de API com Postman](https://docs.google.com/spreadsheets/d/1gcO2OzskBA80sH3rPQleONSNsfzfBnP5/edit?usp=sharing): casos de teste de um endpoint, com bugs registrados no Jira
+- [Checklist de app mobile](https://docs.google.com/spreadsheets/d/1xp3r6krV02ceTKmgPXbKIczSQQvMULvIzD4aeTsKZSo/edit?usp=sharing): app de pedidos de comida, com bugs registrados no Jira
+- [Linux e SQL](https://docs.google.com/document/d/1FEN2D2UPiK5MpJ9iO91GOOiVrY89QAewPqWRwF0OK1o/edit?usp=sharing): análise de logs com `grep` e consultas em PostgreSQL
+
 **Ferramentas:** Jira · Postman · Android Studio · DevTools · Google Sheets
 
 [Ver casos de teste e relatório de bugs](https://docs.google.com/spreadsheets/d/13qlao50ULOiJ0YxPChfahgpj2fGDjqjoyIAeTeYleEk/edit?usp=sharing)
