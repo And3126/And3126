@@ -1,13 +1,33 @@
-# Olá, sou a Andressa
+# Olá, sou a Andressa 👋
 
-Analista de QA com foco em testes manuais e automatizados
-em aplicações web, mobile e APIs.
+Analista de QA com foco em testes manuais e automatizados em aplicações web, mobile e APIs.
 
 ## Ferramentas
+
 Python | Selenium | Pytest | Postman | Jira | SQL | Android Studio | Git
 
 ## Projetos
-- Urban Routes: automação de testes E2E com Python, Selenium e Pytest
+
+### Urban Routes: automação de testes E2E
+
+Automação do fluxo completo de pedido de táxi em um app web, com 8 testes: rota, plano Comfort, telefone com código SMS, cartão, comentário para o motorista, extras (cobertor, lenços e sorvetes) e busca do carro. Testes independentes, esperas explícitas centralizadas e Page Object Model.
+
+**Stack:** Python · Selenium · Pytest · PyCharm · Git/GitHub
+
+[Ver repositório](https://github.com/And3126/QA-Brazil_Python_Automation)
+
+### Urban Scooter: projeto final de QA (web, mobile e API)
+
+Plano de testes completo de um app de aluguel de scooters, dos casos de teste ao relatório de bugs.
+
+- **Web:** classes de equivalência e valores limite, executados no Chrome e no Opera, com 8 bugs registrados no Jira.
+- **Mobile:** casos de teste de layout, notificação e falha de conexão (Android Studio).
+- **API:** casos de teste de adicionar e excluir entregador (POST/DELETE) com Postman.
+
+**Ferramentas:** Jira · Postman · Android Studio · DevTools · Google Sheets
+
+[Ver casos de teste e relatório de bugs](https://docs.google.com/spreadsheets/d/13qlao50ULOiJ0YxPChfahgpj2fGDjqjoyIAeTeYleEk/edit?usp=sharing)
 
 ## Contato
-LinkedIn: https://www.linkedin.com/in/andressa-santos-79957b394
+
+[LinkedIn](https://www.linkedin.com/in/andressa-santos-79957b394)
