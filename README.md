@@ -11,6 +11,14 @@ Antes de QA, trabalhei por mais de 7 anos com atendimento ao cliente e vendas, e
 
 Estou buscando minha primeira oportunidade em QA, de preferência remota.
 
+## Trajetória
+
+- **2025 – atual:** Data Annotator freelance na Innodata e na OneForma (anotação e validação de dados para IA)
+- **2023 – 2025:** Vendedora na Granado
+- **2018 – 2023:** Balconista de farmácia (Pacheco e Venâncio)
+- **2026:** Bootcamp de QA, TripleTen
+- **Desde 2023:** Biomedicina, IBMR (em andamento)
+
 ## Conhecimentos técnicos
 
 - **Testes:** manuais, automatizados, de API, mobile e web (UI) · casos de teste · checklists · classes de equivalência · valores limite · relatório de bugs
@@ -37,33 +45,31 @@ Plano de testes completo de um app de aluguel de scooters, dos casos de teste ao
 
 **Stack:** Jira · Postman · Android Studio · DevTools · Google Sheets
 
-[Ver repositório](COLE-O-LINK-AQUI)
+[Ver repositório](https://github.com/And3126/qa-urban-scooter)
 
 ### Testes de API com Postman
 
-Casos de teste de um endpoint de kits de produtos, com classes de equivalência e valores limite, e bugs registrados no Jira.
+20 casos de teste de um endpoint de kits de produtos, com classes de equivalência e valores limite, e 11 bugs registrados no Jira (a maioria com erro 500 no lugar de 400).
 
 **Stack:** Postman · Jira · JSON · Google Sheets
 
-[Ver repositório](COLE-O-LINK-AQUI)
+[Ver repositório](https://github.com/And3126/qa-api-testing-postman)
+
+### Testes mobile: Urban Lunch
+
+Checklist de 46 itens executado em emulador Android para um app de pedidos de comida, com 8 bugs registrados no Jira (7 preços diferentes da especificação e 1 erro de formatação).
+
+**Stack:** Android Studio · Jira · Google Sheets
+
+[Ver repositório](https://github.com/And3126/qa-mobile-urban-lunch)
 
 ### Análise de dados com SQL e logs no Linux
 
-Análise de logs de servidor com `grep` no terminal Linux e consultas em um banco PostgreSQL (`SELECT`, `JOIN`, `GROUP BY`, `HAVING` e `CASE`).
+Projeto do bootcamp: análise de logs de servidor com `grep` no terminal Linux e consultas em um banco PostgreSQL (`SELECT`, `JOIN`, `GROUP BY`, `HAVING` e `CASE`).
 
 **Stack:** SQL (PostgreSQL) · Linux (terminal, grep)
 
-[Ver repositório](COLE-O-LINK-AQUI)
-
-### Testes manuais: web e mobile (Urban Routes e Urban Lunch)
-
-Casos de teste e checklists de layout, formulários e pagamento do app web, e checklist do app mobile de pedidos de comida, com bugs registrados no Jira. A interface foi testada em navegadores e resoluções diferentes.
-
-**Stack:** Jira · Google Sheets · DevTools · Android Studio
-
-[Ver repositório](COLE-O-LINK-AQUI)
-
 ## Contato
 
-- [LinkedIn](https://linkedin.com/in/andressa-santos-79957b394)
+- [LinkedIn](https://www.linkedin.com/in/andressa-santos-qa/)
 - E-mail: andtrab1995@gmail.com
