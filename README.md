@@ -17,7 +17,6 @@ Estou buscando minha primeira oportunidade em QA, de preferência remota.
 - **2023 – 2025:** Vendedora na Granado
 - **2018 – 2023:** Balconista de farmácia (Pacheco e Venâncio)
 - **2026:** Bootcamp de QA, TripleTen
-- **Desde 2023:** Biomedicina, IBMR (em andamento)
 
 ## Conhecimentos técnicos
 
