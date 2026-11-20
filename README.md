@@ -1,6 +1,6 @@
 # Olá, sou a Andressa 👋
 
-**Analista de QA Júnior** | Testes manuais, de API e automação com Python
+**Analista de QA Júnior** | Testes manuais, de API e automação com Python  
 📍 Rio de Janeiro, RJ
 
 ## Sobre mim
